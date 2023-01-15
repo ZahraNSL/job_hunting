@@ -2,9 +2,9 @@
 
 ## LaTeX resume template
 
-![pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.svg)
+
 [![Foo]([http://www.google.com.au/images/nav_logo7.png](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.svg))](http://google.com.au/)
-![pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.svg)
+
 
 ## Job Fair Catalogs
 
