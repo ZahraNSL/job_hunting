@@ -1,4 +1,5 @@
 #! /bin/bash
 
 lualatex resume.tex
-pdf2svg resume.pdf resume.svg
+convert resume.pdf resume.jpg
+convert resume.jpg -resize 30%  resume_30.jpg

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.14)  15 JAN 2023 23:15
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.14)  15 JAN 2023 23:46
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1166,7 +1166,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:1,2:2659,3:719,4:606,5:1395,6:280,7:12315,8:41,9:1652,10:15,11
 :860
  54619 multiletter control sequences out of 65536+600000
- 115 fonts using 31545623 bytes
+ 115 fonts using 31545583 bytes
  114i,11n,124p,563b,1110s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSan
 sPro-Semibold.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourc
