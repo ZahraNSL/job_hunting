@@ -2,4 +2,4 @@
 
 lualatex resume.tex
 convert resume.pdf resume.jpg
-convert resume.jpg -resize 30%  resume_30.jpg
+convert resume-0.jpg -resize 30%  resume-0_30.jpg
