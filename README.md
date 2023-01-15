@@ -2,8 +2,8 @@
 
 ## LaTeX resume template
 
-- output of the short one: [pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/assets/LaTeX_templates/short_resume/short_resume.pdf)
-- output of the extended one: [pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/assets/LaTeX_templates/extended_resume/resume.pdf)
+- output of the short one: ![pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)
+- output of the extended one: ![pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf)
 
 ## Job Fair Catalogs
 
