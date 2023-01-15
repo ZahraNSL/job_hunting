@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.12.15)  15 DEC 2022 19:45
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.12.15)  15 JAN 2023 21:29
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1159,14 +1159,14 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 
 Here is how much of LuaTeX's memory you used:
  36042 strings out of 477785
- 156364,1373583 words of node,token memory allocated
+ 156368,1373583 words of node,token memory allocated
  651 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 84 glue_spec,
  7 attribute_list, 2 write nodes
-   avail lists: 1:1,2:2659,3:719,4:606,5:1386,6:280,7:12321,8:41,9:1652,10:16,11
-:863
+   avail lists: 1:1,2:2659,3:719,4:606,5:1395,6:280,7:12315,8:41,9:1652,10:15,11
+:860
  55542 multiletter control sequences out of 65536+600000
- 115 fonts using 31545663 bytes
+ 115 fonts using 31545623 bytes
  114i,11n,124p,563b,1110s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSan
 sPro-Semibold.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourc
@@ -1180,7 +1180,7 @@ ntawesome5/FontAwesome5Brands-Regular-400.otf></usr/local/texlive/2022/texmf-dis
 t/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/
 texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf></usr/loc
 al/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf>
-Output written on resume.pdf (4 pages, 49212 bytes).
+Output written on resume.pdf (4 pages, 49204 bytes).
 
 PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
