@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.12.15)  15 JAN 2023 21:29
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.14)  15 JAN 2023 23:15
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -45,7 +45,7 @@ Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2022-02-24>
+. L3 programming layer <2022-12-17>
 Inserting `tracingstacklevels' at position 1 in `input_level_string'. (./russel
 l.cls
 Document Class: russell 2017/02/05 v1.6.1 russell Curriculum Vitae Class
@@ -199,14 +199,14 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 (/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-02-24 L3 programming layer (loader) 
+Package: expl3 2022-12-17 L3 programming layer (loader) 
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2022-02-07 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2022-10-26 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box53
 ))
-Package: xparse 2022-01-12 L3 Experimental document command parser
+Package: xparse 2022-12-17 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/
@@ -241,7 +241,7 @@ Package: unicode-math-luatex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaL
 aTeX
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 
@@ -1158,14 +1158,14 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
  [4] (./resume.aux))
 
 Here is how much of LuaTeX's memory you used:
- 36042 strings out of 477785
- 156368,1373583 words of node,token memory allocated
+ 36060 strings out of 478724
+ 156368,1977958 words of node,token memory allocated
  651 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 84 glue_spec,
  7 attribute_list, 2 write nodes
    avail lists: 1:1,2:2659,3:719,4:606,5:1395,6:280,7:12315,8:41,9:1652,10:15,11
 :860
- 55542 multiletter control sequences out of 65536+600000
+ 54619 multiletter control sequences out of 65536+600000
  115 fonts using 31545623 bytes
  114i,11n,124p,563b,1110s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSan
