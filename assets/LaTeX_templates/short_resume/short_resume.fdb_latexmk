@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1671129499 "/Users/rknot/sciebo/GitHub/adarijani.github.io/assets/pdf/short_resume/short_resume.tex" "short_resume.pdf" "short_resume" 1671129499
-  "/Users/rknot/sciebo/GitHub/adarijani.github.io/assets/pdf/short_resume/short_resume.tex" 1671129497 5288 4015e4049558e6a3796ecf9802d895fc ""
+["pdflatex"] 1673812498 "/Users/rknot/Github/job_hunting/assets/LaTeX_templates/short_resume/short_resume.tex" "short_resume.pdf" "short_resume" 1673812498
+  "/Users/rknot/Github/job_hunting/assets/LaTeX_templates/short_resume/short_resume.tex" 1673812496 5285 355f443fadd4a4e8241f0014b8987087 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-OT1-TLF.tfm" 1508701834 15472 9858d01ce8b81550ea3f48e55de0d193 ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -76,9 +76,9 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1671120193 2826431 0528bab42730ea79934992d72fb3c76c ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "MagicalCV.cls" 1671123532 14550 bcfd9c228bf73e164e4862c7f9c66919 ""
-  "short_resume.aux" 1671129499 32 3985256e7290058c681f74d7a3565a19 ""
-  "short_resume.tex" 1671129497 5288 4015e4049558e6a3796ecf9802d895fc ""
+  "MagicalCV.cls" 1673811488 14550 bcfd9c228bf73e164e4862c7f9c66919 ""
+  "short_resume.aux" 1673812498 32 3985256e7290058c681f74d7a3565a19 ""
+  "short_resume.tex" 1673812496 5285 355f443fadd4a4e8241f0014b8987087 ""
   (generated)
   "short_resume.log"
   "short_resume.pdf"

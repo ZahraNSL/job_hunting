@@ -1,8 +1,8 @@
-PWD /Users/rknot/sciebo/GitHub/adarijani.github.io/assets/pdf/short_resume
+PWD /Users/rknot/Github/job_hunting/assets/LaTeX_templates/short_resume
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/rknot/sciebo/GitHub/adarijani.github.io/assets/pdf/short_resume/short_resume.tex
+INPUT /Users/rknot/Github/job_hunting/assets/LaTeX_templates/short_resume/short_resume.tex
 OUTPUT short_resume.log
 INPUT ./MagicalCV.cls
 INPUT ./MagicalCV.cls

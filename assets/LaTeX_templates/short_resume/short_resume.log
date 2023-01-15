@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.12.15)  15 DEC 2022 19:38
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.12.15)  15 JAN 2023 20:55
  restricted system commands enabled.
 **short_resume.tex
 (./short_resume.tex
@@ -2588,7 +2588,7 @@ Here is how much of LuaTeX's memory you used:
  538 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 73 glue_spec,
  5 attribute_list, 2 write nodes
-   avail lists: 1:2,2:1517,3:582,4:439,5:847,6:222,7:7920,8:81,9:821,10:9,11:592
+   avail lists: 1:1,2:1517,3:582,4:439,5:850,6:222,7:7905,8:81,9:821,10:9,11:589
 
  53015 multiletter control sequences out of 65536+600000
  149 fonts using 31125367 bytes
@@ -2599,7 +2599,7 @@ ts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./fonts/raleway/Ralew
 ay-Medium.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/fontawes
 ome/FontAwesome.otf><./fonts/lato/Lato-Lig.ttf><./fonts/lato/Lato-Hai.ttf><./fon
 ts/raleway/Raleway-ExtraLight.otf>
-Output written on short_resume.pdf (1 page, 43060 bytes).
+Output written on short_resume.pdf (1 page, 43047 bytes).
 
 PDF statistics: 97 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
