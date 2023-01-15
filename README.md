@@ -3,8 +3,8 @@
 ## LaTeX resume template
 
 
-[![Foo](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume_50.jpg)](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)
-
+[![Foo](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume_30.jpg)](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)
+[![Foo](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/extended_resume_30.jpg)](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/extended_resume.pdf)
 
 ## Job Fair Catalogs
 
