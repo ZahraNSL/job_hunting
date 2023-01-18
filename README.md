@@ -22,5 +22,5 @@
 
 ## MISC
 
-- THE HANDBOOK [Link](https://locomo.tips)
+- THE HANDBOOK(In Farsi Unfortunately) [Link](https://locomo.tips)
 
