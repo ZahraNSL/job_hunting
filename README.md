@@ -20,3 +20,7 @@
 - Bonding: Kaiserslautern [pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/assets/pdf/bonding_kaiserslautern.pdf)
 - Bonding: Karlsruhe [pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/assets/pdf/bonding_karlsruhe.pdf)
 
+## MISC
+
+- THE HANDBOOK [Link](https://locomo.tips)
+
