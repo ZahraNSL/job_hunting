@@ -21,7 +21,7 @@ make_resume.sh
 
 Bonding is an organization that organizes cost-free events for students to allow them to get an inside view of the working world. Companies/Students get to demonstrate themselves in their events which is nice. Here are the compiled catalogues of the companies that participated in different events throughout Germany.
 
-## The List that I know of ( ---I try to update them accordingly--- )
+## The List that I know of (I try to update them accordingly)
 
 - Bonding: Aachen [pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/assets/pdf/bonding_aachen.pdf)
 - Bonding: Berlin [pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/assets/pdf/bonding_berlin.pdf)
