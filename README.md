@@ -2,12 +2,27 @@
 
 ## LaTeX resume template
 
+- Found a couple of nice LaTeX templates(a short and an extended one). Check them out and see if they fit your style.
 
 [![Foo](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume_30.jpg)](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)
 [![Foo](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume-0_30.jpg)](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf)
 
+If you found them to be useful then:
+
+- for the compilation you need a pretty big TeX distribution to be sure you have all the workflows. For me on macOS it is called MacTeX distribution.
+
+The following lines with compile your short/extended resume(depending on the directory you are on) and pushes the changes into your git repository.
+
+```sh
+make_resume.sh
+```
+
+
+
 
 ## Job Fair Catalogs
+
+Bonding is an organization that organizes cost-free events for students to allow them to get an inside view of the working world. Companies/Students get to demonstrate themselves in their events which is nice. Here are the compiled catalogues of the companies that participated in different events throughout Germany.
 
 - Bonding: Aachen [pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/assets/pdf/bonding_aachen.pdf)
 - Bonding: Berlin [pdf](https://raw.githubusercontent.com/adarijani/job_hunting/main/assets/pdf/bonding_berlin.pdf)
