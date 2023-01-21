@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.14)  15 JAN 2023 23:47
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.12.15)  21 JAN 2023 10:10
  restricted system commands enabled.
 **short_resume.tex
 (./short_resume.tex
@@ -45,7 +45,7 @@ Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2022-12-17>
+. L3 programming layer <2022-02-24>
 Inserting `tracingstacklevels' at position 1 in `input_level_string'. (./Magica
 lCV.cls
 Document Class: MagicalCV 2022/05/31 CV class
@@ -398,14 +398,14 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-12-17 L3 programming layer (loader) 
+Package: expl3 2022-02-24 L3 programming layer (loader) 
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2022-10-26 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2022-02-07 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count286
 \l__pdf_internal_box=\box56
 ))
-Package: xparse 2022-12-17 L3 Experimental document command parser
+Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/
@@ -1187,7 +1187,7 @@ LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
 Package: fontawesome5 2021/06/04 v5.15.3 Font Awesome 5
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-he
 lper.sty
@@ -2578,14 +2578,14 @@ Package rerunfilecheck Info: File `short_resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33515 strings out of 478724
- 125086,1977958 words of node,token memory allocated
+ 33497 strings out of 477785
+ 125086,1144653 words of node,token memory allocated
  538 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 73 glue_spec,
  5 attribute_list, 2 write nodes
    avail lists: 1:1,2:1517,3:582,4:439,5:850,6:222,7:7905,8:81,9:821,10:9,11:589
 
- 52099 multiletter control sequences out of 65536+600000
+ 53022 multiletter control sequences out of 65536+600000
  149 fonts using 31125367 bytes
  114i,11n,135p,1200b,1110s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/lato/Lato-Bol.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/ad
@@ -2594,7 +2594,7 @@ ts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./fonts/raleway/Ralew
 ay-Medium.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/fontawes
 ome/FontAwesome.otf><./fonts/lato/Lato-Lig.ttf><./fonts/lato/Lato-Hai.ttf><./fon
 ts/raleway/Raleway-ExtraLight.otf>
-Output written on short_resume.pdf (1 page, 43479 bytes).
+Output written on short_resume.pdf (1 page, 43322 bytes).
 
 PDF statistics: 116 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
