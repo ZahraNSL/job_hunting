@@ -37,4 +37,4 @@ Bonding is an organization that organizes cost-free events for students to allow
 ## MISC
 
 - THE HANDBOOK(In Farsi Unfortunately) [Link](https://locomo.tips)
-  * So there is this guy Loc0mo (Tech guy, former Ex-Google and so on and so forth) that gives his advice on coding, job hunting, and mental health. It is in Farsi so there is that for the good or bad.
+  * So there is this guy [Loc0mo](https://twitter.com/loc0m0) (Tech guy, former Ex-Google and so on and so forth) that gives his advice on coding, job hunting, and mental health. It is in Farsi so there is that for the good or bad.
