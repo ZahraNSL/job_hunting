@@ -1,15 +1,15 @@
 # job_hunting
 
-## LaTeX resume template
+## [LaTeX](https://www.latex-project.org/) resume template
 
-- Found a couple of nice LaTeX templates(a short and an extended one). Check them out and see if they fit your style.
+- Found a couple of nice [LaTeX](https://www.latex-project.org/) templates(a [short](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf) and an [extended](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf) one). Check them out and see if they fit your style.
 
 [![Foo](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume_30.jpg)](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)
 [![Foo](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume-0_30.jpg)](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf)
 
 If you found them to be useful then:
 
-- for the compilation you need a pretty big TeX distribution to be sure you have all the workflows. For me on macOS it is called MacTeX distribution.
+- for the compilation you need a pretty big [TeX](https://tug.org/index.html) distribution to be sure you have all the workflows like [LuaTeX](https://www.luatex.org/) and others. For me on macOS it is called [MacTeX](https://www.tug.org/mactex/)  distribution.
 
 The following lines with compile your short/extended resume(depending on the directory you are on) and pushes the changes into your git repository.
 
