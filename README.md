@@ -19,7 +19,7 @@ make_resume.sh
 
 ## Job Fair Catalogs
 
-Bonding is an organization that organizes cost-free events for students to allow them to get an inside view of the working world. Companies/Students get to demonstrate themselves in their events which is nice. Here are the compiled catalogues of the companies that participated in different events throughout Germany.
+Bonding is an organization that organizes cost-free events for students to allow them to get an inside view of the working world. Companies/Students get to demonstrate themselves in their events which is nice. Here are the compiled catalogues of the companies that participated in different events throughout Germany. The good thing about it is that well it is list and it also give a short description of the company, the revenues, and also the fields that they are recruiting talents from.
 
 ## The List that I know of (I try to update them accordingly)
 
