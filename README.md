@@ -14,7 +14,7 @@ If you found them to be useful then:
 The following lines with compile your short/extended resume(depending on the directory you are on) and pushes the changes into your git repository.
 
 ```sh
-make_resume.sh
+auto.sh
 ```
 
 ## Job Fair Catalogs
