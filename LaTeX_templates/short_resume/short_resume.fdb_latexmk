@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1680369400 "/Users/afro/Desktop/job_hunting/LaTeX_templates/short_resume/short_resume.tex" "short_resume.pdf" "short_resume" 1680369400
-  "/Users/afro/Desktop/job_hunting/LaTeX_templates/short_resume/short_resume.tex" 1680369399 5473 0735b2435c708e369b3970cd98886c06 ""
+["pdflatex"] 1680370003 "/Users/afro/Desktop/job_hunting/LaTeX_templates/short_resume/short_resume.tex" "short_resume.pdf" "short_resume" 1680370003
+  "/Users/afro/Desktop/job_hunting/LaTeX_templates/short_resume/short_resume.tex" 1680370003 5691 728167961965e76a5f9c0a6f287d5745 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-OT1-TLF.tfm" 1508701834 15472 9858d01ce8b81550ea3f48e55de0d193 ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -77,8 +77,8 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1659259005 2826440 b58a60d6a895f2520a4f7a4676e40e55 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "MagicalCV.cls" 1680352482 14550 bcfd9c228bf73e164e4862c7f9c66919 ""
-  "short_resume.aux" 1680369400 32 3985256e7290058c681f74d7a3565a19 ""
-  "short_resume.tex" 1680369399 5473 0735b2435c708e369b3970cd98886c06 ""
+  "short_resume.aux" 1680370003 32 3985256e7290058c681f74d7a3565a19 ""
+  "short_resume.tex" 1680370003 5691 728167961965e76a5f9c0a6f287d5745 ""
   (generated)
   "short_resume.log"
   "short_resume.pdf"

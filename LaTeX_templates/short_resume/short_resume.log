@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.7.31)  1 APR 2023 19:17
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.7.31)  1 APR 2023 19:27
  restricted system commands enabled.
 **short_resume.tex
 (./short_resume.tex
@@ -2558,25 +2558,32 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 52.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
 |[]\TU/Lato-Bol(0)/b/n/12 IN-STI-TUTE FOR AD-VANCED
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/sc' will be
-(Font)              scaled to size 11.0pt on input line 60.
+(Font)              scaled to size 11.0pt on input line 61.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \end{tightemize}
+                   
+? 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 77.
+(Font)              scaled to size 11.0pt on input line 104.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 144.
+(Font)              scaled to size 12.0pt on input line 146.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 145.
+(Font)              scaled to size 12.0pt on input line 147.
 [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \vbox (14.84239pt too high) has occurred while \output is active []
-
-
-[2] [3] (./short_resume.aux)
+(./short_resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2591,12 +2598,12 @@ Package rerunfilecheck Info: Checksums for `short_resume.out':
 )
 
 Here is how much of LuaTeX's memory you used:
- 33483 strings out of 477785
+ 33479 strings out of 477785
  125086,1144653 words of node,token memory allocated
  538 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 73 glue_spec,
  5 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1623,3:401,4:276,5:558,6:149,7:5216,8:45,9:547,10:9,11:396
+   avail lists: 1:2,2:1401,3:564,4:403,5:808,6:189,7:7638,8:69,9:767,10:9,11:553
 
  53015 multiletter control sequences out of 65536+600000
  149 fonts using 31126647 bytes
@@ -2607,10 +2614,10 @@ ts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./fonts/raleway/Ralew
 ay-Medium.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/fontawes
 ome/FontAwesome.otf><./fonts/lato/Lato-Lig.ttf><./fonts/lato/Lato-Hai.ttf><./fon
 ts/raleway/Raleway-ExtraLight.otf>
-Output written on short_resume.pdf (3 pages, 44883 bytes).
+Output written on short_resume.pdf (1 page, 43888 bytes).
 
-PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 131072)
+PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
